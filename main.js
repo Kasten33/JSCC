@@ -20,3 +20,4 @@ function onSubmit(e){
         emialInput.value = '';
     }
 }
+// cool
